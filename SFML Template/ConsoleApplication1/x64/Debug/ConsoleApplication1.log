@@ -1,0 +1,66 @@
+﻿E:\Programs\VS Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,44): warning C4305: 'argument': truncation from 'double' to 'T'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,44): warning C4305:         with
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,44): warning C4305:         [
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,44): warning C4305:             T=float
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,44): warning C4305:         ]
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,36): warning C4305: 'argument': truncation from 'double' to 'T'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,36): warning C4305:         with
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,36): warning C4305:         [
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,36): warning C4305:             T=float
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(58,36): warning C4305:         ]
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(482,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(483,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(484,35): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(484,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(485,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(487,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(488,38): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(488,30): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(490,37): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(490,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(492,37): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(492,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(493,37): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(493,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(494,34): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(495,29): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(498,38): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(498,29): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(499,29): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(500,29): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(501,29): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(618,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(688,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,77): warning C4244:         with
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,77): warning C4244:         [
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,77): warning C4244:             T=int
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,77): warning C4244:         ]
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,57): warning C4244:         with
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,57): warning C4244:         [
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,57): warning C4244:             T=int
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1096,57): warning C4244:         ]
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,74): warning C4244:         with
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,74): warning C4244:         [
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,74): warning C4244:             T=int
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,74): warning C4244:         ]
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,63): warning C4244:         with
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,63): warning C4244:         [
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,63): warning C4244:             T=int
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1113,63): warning C4244:         ]
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1216,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1233,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1264,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1283,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1619,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1619,35): warning C4244:         with
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1619,35): warning C4244:         [
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1619,35): warning C4244:             T=float
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1619,35): warning C4244:         ]
+E:\SFML Template\SFML Template\ConsoleApplication1\Main.cpp(1776,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\SFML Template\SFML Template\x64\Debug\SFML Template.exe
